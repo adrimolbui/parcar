@@ -4,6 +4,7 @@ public class Garage{
     
     public void printGarage() 
     {
-        system.out.print("|*]");
+        System.out.print("|*]");
+        System.out.println("");
     }
 }
